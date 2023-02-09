@@ -43,22 +43,10 @@
 
 </div>
 
-<!--START_SECTION:waka-->
-
-```text
-From: 08 October 2022 - To: 09 February 2023
-
-Total Time: 51 hrs 19 mins
-
-JavaScript   17 hrs 18 mins  >>>>>>>>-----------------   33.71 %
-HTML         13 hrs 14 mins  >>>>>>-------------------   25.79 %
-CSS          12 hrs 58 mins  >>>>>>-------------------   25.27 %
-Python       3 hrs 29 mins   >>-----------------------   06.80 %
-Markdown     1 hr 50 mins    >------------------------   03.60 %
-JSON         1 hr 24 mins    >------------------------   02.74 %
-```
-
-<!--END_SECTION:waka-->
+### Conecte-se comigo
+<div> 
+  <a href="https://www.linkedin.com/in/allefluziano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 <div align="center">
 <a href="https://open.spotify.com/user/12153387541"><img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" width="300"></a>
