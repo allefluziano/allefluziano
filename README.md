@@ -38,7 +38,7 @@
 
 <div align=center>
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=devdesouza&langs_count=5)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=allefluziano&langs_count=5)
 <br>
 
 </div>
