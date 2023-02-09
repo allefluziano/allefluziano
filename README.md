@@ -36,8 +36,9 @@
 <br>
 <br>
 
+<div align=center>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allefluziano&langs_count=8)
-
+</div>
 
 <!--START_SECTION:waka-->
 
