@@ -37,7 +37,10 @@
 <br>
 
 <div align=center>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allefluziano&langs_count=8)
+
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=devdesouza&langs_count=5)
+<br>
+
 </div>
 
 <!--START_SECTION:waka-->
