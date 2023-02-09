@@ -36,7 +36,7 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allefluziano&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allefluziano&langs_count=8)
 
 
 <!--START_SECTION:waka-->
