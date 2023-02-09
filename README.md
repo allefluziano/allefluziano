@@ -48,6 +48,8 @@
   <a href="https://www.linkedin.com/in/allefluziano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<br>
+
 <div align="center">
 <a href="https://open.spotify.com/user/12153387541"><img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" width="300"></a>
 </div>
