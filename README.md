@@ -1,55 +1,40 @@
-<div align=center>
-<h1>Állef Luziano</h1>
+Hi 👋 My name is Állef Luziano
+==============================
 
-![Visualizações no Perfil](https://gpvc.arturio.dev/allefluziano)
-<br>
+Software Engineer
+-----------------
 
-</div>
-<br>
-<br>
+* 🌍  I'm based in Belo Horizonte, MG - Brazil
+* ✉️  You can contact me at [allefluziano@gmail.com](mailto:allefluziano@gmail.com)
+* 🚀  I'm currently working on [Itaú Unibanco](http://www.itau.com.br/)
+* 🧠  I'm learning Python, Typescript, Angular and Cloud Computing
+* ⚡  I'm 2x AWS Certified
 
+<a href="https://www.github.com/allefluziano" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/allefluziano?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 
-### Linguagens e Ferramentas
-![](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
-![](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
-![](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
-![](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)
-![](https://img.shields.io/badge/-Json-black?style=flat&logo=json)
+### Skills
 
 
-<br>
+<p align="left">
+ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+</p>
 
-### Aprendendo ou Interessado
-![](https://img.shields.io/badge/-ReactJs-black?style=flat&logo=react)
-![](https://img.shields.io/badge/-NodeJs-black?style=flat&logo=node.js)
-![](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-![](https://img.shields.io/badge/-NextJs-black?style=flat&logo=next.js)
-![](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)
 
-<br>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=allefluziano&hide_border=true&count_private=true&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=allefluziano&theme=tokyonight&hide_border=true">
-</div>
-<br>
-<br>
+### Socials
 
-<div align=center>
+<p align="left"> <a href="https://www.github.com/allefluziano" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/allefluziano" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=allefluziano&langs_count=5)
-<br>
+### Badges
 
-</div>
+<b>My GitHub Stats</b>
 
-### Conecte-se comigo
-<div> 
-  <a href="https://www.linkedin.com/in/allefluziano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<a href="http://www.github.com/allefluziano"><img src="https://github-readme-stats.vercel.app/api?username=allefluziano&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="allefluziano's GitHub stats" /></a>
 
-<br>
+<a href="http://www.github.com/allefluziano"><img src="https://github-readme-streak-stats.herokuapp.com/?user=allefluziano&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<div align="center">
-<a href="https://open.spotify.com/user/12153387541"><img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" width="300"></a>
-</div>
+<a href="https://github.com/allefluziano" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allefluziano&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/allefluziano/imersao13-fullcycle" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=allefluziano&repo=imersao13-fullcycle&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/allefluziano/signalR-webchat" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=allefluziano&repo=signalR-webchat&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
