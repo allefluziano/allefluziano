@@ -17,7 +17,7 @@ src="https://img.shields.io/github/followers/allefluziano?logo=github&style=for-
 
 
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 </p>
 
 
